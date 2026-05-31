@@ -1,0 +1,40 @@
+{
+  "records": [
+    {
+      "id": "CVR-11",
+      "vendor": "KiteAI",
+      "product": "Agent Control Cloud",
+      "scope": "AI_GOVERNANCE",
+      "owner": "AI platform office",
+      "boardSlide": "AI readiness",
+      "claimHeadline": "Production-grade agent governance is fully live.",
+      "claimedState": "Policy bundles, eval gates, and approval trails are active across every agent lane.",
+      "observedState": "Pilot-only policybundle coverage with manual review and no production gate on two high-impact agent lanes.",
+      "evidenceStatus": "STALE",
+      "reviewStatus": "CONTRADICTED",
+      "annualSpendUsd": 420000,
+      "replacementSavingsUsd": 120000,
+      "buyerImpact": "Board memo overstates readiness and underprices remediation.",
+      "riskWindowDays": 47,
+      "proofLinks": ["board/ai-readiness-q2", "evidence/policybundle-gap"]
+    },
+    {
+      "id": "CVR-31",
+      "vendor": "LedgerWest",
+      "product": "Cost Compression Suite",
+      "scope": "COST_EFFICIENCY",
+      "owner": "Finance systems",
+      "boardSlide": "Margin improvement",
+      "claimHeadline": "The finance stack is already delivering six-figure margin savings.",
+      "claimedState": "Savings are measured, recurring, and attributable to current tooling decisions.",
+      "observedState": "Unmeasured savings story still depends on manual export work and an untested replacement path for one contract.",
+      "evidenceStatus": "MISSING",
+      "reviewStatus": "CONTRADICTED",
+      "annualSpendUsd": 640000,
+      "replacementSavingsUsd": 260000,
+      "buyerImpact": "CFO narrative is fragile without a better replacement and savings proof packet.",
+      "riskWindowDays": 63,
+      "proofLinks": ["finance/margin-story", "contracts/replacement-model"]
+    }
+  ]
+}

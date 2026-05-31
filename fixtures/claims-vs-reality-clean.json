@@ -1,0 +1,22 @@
+{
+  "records": [
+    {
+      "id": "CVR-42",
+      "vendor": "Borderproof",
+      "product": "Residency Shield",
+      "scope": "DATA_RESIDENCY",
+      "owner": "Privacy engineering",
+      "boardSlide": "Global readiness",
+      "claimHeadline": "Data residency coverage is complete across regulated customer lanes.",
+      "claimedState": "Residency commitments, subprocessors, and regional storage paths are verified and current.",
+      "observedState": "Coverage is verified for the main lanes, with one pending subprocessor attestation still under review.",
+      "evidenceStatus": "CURRENT",
+      "reviewStatus": "VERIFIED",
+      "annualSpendUsd": 190000,
+      "replacementSavingsUsd": 0,
+      "buyerImpact": "This is one of the few board claims that is genuinely clean.",
+      "riskWindowDays": 9,
+      "proofLinks": ["privacy/residency-pack", "vendors/subprocessor-attestation"]
+    }
+  ]
+}
