@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "claims-vs-reality-engine",
   "version": "0.1.0",
   "description": "Board-ready executive intelligence surface for claim-versus-proof review. Reads synthetic vendor and platform claims, scores evidence freshness, highlights contradicted narratives, and packages board-ready diligence outputs. Library + CLI.",
